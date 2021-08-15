@@ -1,5 +1,6 @@
 # It's from Western Digital's git hub
 Pjt is modified and bug-fixed for Bit Generation.
+
 just follow WD's policy for other things.
 
 # FPGA Reference Design for the SweRV RISC-V Core<sup>TM</sup> from Western Digital
